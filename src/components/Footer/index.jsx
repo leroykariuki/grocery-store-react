@@ -134,7 +134,7 @@ export default function Footer() {
         <p>
           Created By
           {' '}
-          <span>Mr. Web Designer</span>
+          <span>Leroy</span>
           {' '}
           | All Rights Reserved
         </p>
